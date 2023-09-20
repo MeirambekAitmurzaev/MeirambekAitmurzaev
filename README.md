@@ -14,8 +14,7 @@ I'm a beginner developer. I want to start my career in the field of development 
 - ** Version Control Systems:** Git, GitHub
 - ** Development Environments:** Visual Studio Code, PyCharm, Intellij IDEA, PgAdmin4, Jupyter.
 
-## 💻 Completed Course:
-
+## 💻 Completed Courses:
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | iitu.kz/Introduction to programming(C++)                        | 01/2022 - 05/2022 |
