@@ -1,21 +1,18 @@
 # Hello!👋 My name is Meirambek!
 
 ## About me 📝
-I'm a beginner developer. I want to start my career in the field of development with Java, and I'm ready to apply my knowledge and skills in practice. Currently, I am finishing my second year of university and am confident in my Java language skills, which I have gained through my university studies and additional platforms.
+I'm a beginner developer. I want to start my career in the field of development with Java, and I'm ready to apply my knowledge and skills in practice. Currently, I am finishing my third year of university and am confident in my Java,JS, Python language skills, which I have gained through my university studies and additional platforms.
 
 ## Social Networks 🌐
 - [Instagram](https://www.instagram.com/aitmyrzayev/)
 
 ## Technologies 💻
-- **Programming Languages:** Python, Java, C++
+- **Programming Languages:** Python, Java, C++,JS
 - **Databases:** MySQL, PostgreSQL
 
 ## Tools 🛠️
 - ** Version Control Systems:** Git, GitHub
 - ** Development Environments:** Visual Studio Code, PyCharm, Intellij IDEA, PgAdmin4, Jupyter.
-
-## GitHub stats 📈
-![Ваши GitHub статистика](https://github-readme-stats.vercel.app/api?username=aakkuliyev&show_icons=true&theme=radical)
 
 ## 💻 Completed Course:
 
